@@ -8,7 +8,8 @@
 ## 使用方法：
 - 点击[在线模板](https://www.overleaf.com/latex/templates/chinese-resume-template-zhong-wen-jian-li-mo-ban/fbdypsjmgwbb)，进入Overleaf网站
 - 如果有账号，直接登录（Log in）；如果没有账号，先注册（Register）
-- 点击“Open as Template”，打开模板
+- 点击“Open as Template”，打开在线模板
+![Overleaf](/overleaf.jpg)
 
 
 
